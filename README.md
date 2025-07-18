@@ -12,6 +12,8 @@ Ce travail s’inscrit dans une logique de qualité de données, d’automatisat
 
 Notre mission est de nettoyer et explorer des données en interne, afin de déterminer la faisabilité de cette idée d’application de Santé publique France.
 
+***
+
 **Compétences mobilisées**
 
 Traitement et nettoyage avancé avec pandas, numpy
